@@ -1,3 +1,2 @@
-console.log("working");
-
-
+import loadHome from "./home.js";
+loadHome();
